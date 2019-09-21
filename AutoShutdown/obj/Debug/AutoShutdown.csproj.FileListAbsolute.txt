@@ -1,0 +1,16 @@
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\Teste1\obj\Debug\AutoShutdown.exe
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\Teste1\obj\Debug\AutoShutdown.pdb
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\Teste1\bin\Debug\AutoShutdown.exe
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\Teste1\bin\Debug\AutoShutdown.pdb
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\Teste1\obj\Debug\AutoShutdown.csprojResolveAssemblyReference.cache
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\Teste1\obj\Debug\Teste1.AutoShutdown.resources
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\Teste1\obj\Debug\AutoShutdown.Properties.Resources.resources
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\Teste1\obj\Debug\AutoShutdown.csproj.GenerateResource.Cache
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\AutoShutdown\obj\Debug\AutoShutdown.exe
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\AutoShutdown\obj\Debug\AutoShutdown.pdb
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\AutoShutdown\bin\Debug\AutoShutdown.exe
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\AutoShutdown\bin\Debug\AutoShutdown.pdb
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\AutoShutdown\obj\Debug\AutoShutdown.csprojResolveAssemblyReference.cache
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\AutoShutdown\obj\Debug\Teste1.AutoShutdown.resources
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\AutoShutdown\obj\Debug\AutoShutdown.Properties.Resources.resources
+E:\Dropbox\UFS\Aprendendo\C#\Projetos\Teste1\AutoShutdown\obj\Debug\AutoShutdown.csproj.GenerateResource.Cache
